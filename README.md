@@ -6,9 +6,9 @@ Olá, eu sou o Lucas!
 
 💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de novos desafios.
 
-🎯 Tenho foco em desenvolvimento front-end, criando interfaces modernas e funcionais com React e JavaScript.
+🎯 Tenho foco em desenvolvimento front-end, criando interfaces modernas e funcionais com JavaScript, HTML e CSS.
 
-⚙️ Também possuo conhecimentos básicos em back-end, explorando Java, C#, Go, ASP.NET, além de bancos de dados como MySQL e PostgreSQL.
+⚙️ Também possuo conhecimentos básicos em back-end, explorando Java, C#, além de bancos de dados como MySQL e PostgreSQL.
 
 📚 Estou constantemente aprendendo e aprimorando minhas habilidades para evoluir como profissional e contribuir em projetos reais.
 
