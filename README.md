@@ -32,18 +32,6 @@ Olá, eu sou o Lucas!
 
 </div>
 
-
----
-
-## 📊 Estatísticas do GitHub:
-
-<div align="left">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCerione&theme=dark&show_icons=true)
-
-
-</div>
-
 ---
 
 ## 🔝 Repositórios em destaque:
